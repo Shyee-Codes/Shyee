@@ -288,29 +288,6 @@ color: orange;
 }
 
 
-/* 
-.smallCursor{
-  height: 10px;
-  width: 10px;
-  background: cadetblue;
-  border-radius: 50%;
-  position: absolute;
-  z-index: 1;
-  cursor: pointer;
- 
-}
-.largeCursor{
-  height: 40px;
-  width: 40px;
-
-  border: 2px solid #3ec9f5;
-  border-radius: 50%;
-  position: absolute;
-  z-index: 1;
-  transition-duration: 500ms;
-  transition-timing-function: ease-out;
-} */
-
 
   
   input {
